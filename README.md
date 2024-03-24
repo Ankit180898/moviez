@@ -26,15 +26,14 @@ To get started with Moviez, follow these steps:
    ```bash
    git clone https://github.com/your_username/moviez.git
 
-2. Install Flutter and the necessary dependencies.
-```bash
+2. Install Dependencies
+   '''bash
    cd moviez
    flutter pub get
+3. Run the App
+   '''bash
+   flutter run
 
-3. Run the app on your preferred device or emulator.
-```bash
-   cd moviez
-   flutter pub get
 
 ## Dependencies
    - **Flutter
