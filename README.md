@@ -27,20 +27,20 @@ To get started with Moviez, follow these steps:
    git clone https://github.com/your_username/moviez.git
 
 2. Install Flutter and the necessary dependencies.
-
-'''bash
+```bash
    cd moviez
    flutter pub get
 
 3. Run the app on your preferred device or emulator.
+```bash
+   cd moviez
+   flutter pub get
 
-'''bash
-   flutter run
+## Dependencies
+   - **Flutter
+   - **carousel_slider
 
-Dependencies
-   Flutter
-   carousel_slider
-
-4. Contributing
-   Contributions are welcome! If you'd like to contribute to Moviez, please fork the repository and submit a pull request with your changes.
+## Contributing
+   **Contributions are welcome! If you'd like to contribute to Moviez, 
+   please fork the repository and submit a pull request with your changes.
 
