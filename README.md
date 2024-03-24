@@ -36,10 +36,10 @@ To get started with Moviez, follow these steps:
 
 
 ## Dependencies
-   - **Flutter
-   - **carousel_slider
+   - Flutter
+   - carousel_slider
 
 ## Contributing
-   **Contributions are welcome! If you'd like to contribute to Moviez, 
+   Contributions are welcome! If you'd like to contribute to Moviez, 
    please fork the repository and submit a pull request with your changes.
 
